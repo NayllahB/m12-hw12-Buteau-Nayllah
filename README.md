@@ -1,1 +1,2 @@
-# m12-hw12-Buteau-Nayllah
+# Assignment 12
+There were no challenges while completing this assignment.
